@@ -1,0 +1,18 @@
+#google_translate_element {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    opacity: 0.8;
+}
+
+.goog-te-gadget-simple {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+/* Style the text inside the element */
+.goog-te-gadget-simple a {
+    color: white !important;
+    text-decoration: none !important;
+}
